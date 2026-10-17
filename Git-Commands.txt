@@ -1,4 +1,4 @@
-CS223 - Activity 3: Repository Creation and Basic Git Commands
+Activity 3: Repository Creation and Basic Git Commands
 
 **1. Check repository status**
 `git status`
