@@ -1,0 +1,11 @@
+Repository Creation and Basic Git Commands
+
+This is my Git activity for learning version control.
+
+I practiced creating a repository, staging files, committing changes, pushing and pulling updates, creating branches, switching branches, and merging changes.
+
+This file will be updated to demonstrate Git branching and synchronization.
+
+Feature Branch Update
+
+I created a feature branch to practice working separately from the main branch. Changes made on this branch can be reviewed and merged into the main branch when ready.
