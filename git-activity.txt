@@ -9,3 +9,5 @@ This file will be updated to demonstrate Git branching and synchronization.
 Feature Branch Update
 
 I created a feature branch to practice working separately from the main branch. Changes made on this branch can be reviewed and merged into the main branch when ready.
+
+I also practiced synchronizing my local repository with GitHub using git pull.
